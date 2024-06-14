@@ -35,7 +35,7 @@ The script will read the online retail dataset, perform EDA, and generate visual
 If you have any suggestions or improvements, feel free to open an issue or create a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/JaCar-868/Disease-Progression/blob/main/LICENSE) file for details.
 
 ## Contact
 If you have any questions or suggestions, feel free to open an issue or contact me directly at [j.a.carpenter778@gmail.com].
